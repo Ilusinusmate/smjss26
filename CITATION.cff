@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "Supplementary Material: Large Language Models in Scrum Management: Findings from a
+Global Survey of Practitioners"
+abstract: "This repository contains the supplementary material for the research paper on exploring how Agile practitioners use AI chat assistants to support Scrum management activities. The dataset includes survey responses from 159 participants across various Scrum roles, providing insights into usage patterns, benefits, challenges, and future perspectives."
+authors:
+  - family-names: "Wagner Albuquerque"
+    given-names: "Danyllo"
+    orcid: "https://orcid.org/0000-0001-5515-7812"
+  - family-names: "Salvador Paiva"
+    given-names: "João Gabriel"
+    orcid: "https://orcid.org/0009-0008-5558-429X"
+  - family-names: "Perkusich"
+    given-names: "Mirko"
+    orcid: "https://orcid.org/0000-0002-9433-4962"
+keywords:
+  - Artificial Intelligence
+  - AI Chat Assistants
+  - Scrum
+  - Agile Software Development
+  - Large Language Models
+  - ChatGPT
+  - Project Management
+  - Software Engineering
+  - Survey Research
+  - Empirical Study
+license: MIT
+repository-code: "https://github.com/Ilusinusmate/smjss26"
+url: "https://github.com/Ilusinusmate/smjss26"
+date-released: 2025-11-25
+version: "1.0.0"
+references:
+  - type: article
+    title: "Large Language Models in Scrum Management: Findings from a
+Global Survey of Practitioners"
+    authors:
+      - family-names: "Wagner Albuquerque"
+        given-names: "Danyllo"
+      - family-names: "Salvador Paiva"
+        given-names: "João Gabriel"
+      - family-names: "Perkusich"
+        given-names: "Mirko"
+    journal: "Journal of Software and Systems"
+    year: 2026
+    status: "submitted"

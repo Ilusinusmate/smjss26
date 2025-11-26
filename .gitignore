@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data (if sensitive)
+# Uncomment if you don't want to commit raw data
+# data/raw/*.xlsx
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Output files (optional - uncomment if you don't want to commit outputs)
+# outputs/plots/*.png
+# outputs/plots/*.pdf
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
