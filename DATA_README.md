@@ -373,7 +373,7 @@ When using this data, please cite:
 @dataset{smjss2026_scrum_survey,
    title={Survey Data: Large Language Models in Scrum Management: Findings from a
 Global Survey of Practitioners},
-   author={Danyllo Wagner Albuquerque, João Gabriel Salvador Paiva, Mirko Perkusich},
+   author={Abuquerque, Danyllo et al.},
    year={2026},
    publisher={GitHub},
    url={https://github.com/Ilusinusmate/smjss26}
@@ -429,9 +429,7 @@ See `requirements.txt` for complete list:
 
 For questions about the data structure or access:
 
-- Danyllo Wagner Albuquerque: [ORCID](https://orcid.org/0000-0001-5515-7812)
-- João Gabriel Salvador Paiva: [ORCID](https://orcid.org/0009-0008-5558-429X)
-- Mirko Perkusich: [ORCID](https://orcid.org/0000-0002-9433-4962)
+- Danyllo Wagner Albuquerque: danyllo.albuquerque@virtus.ufcg.edu.br
 
 ---
 
