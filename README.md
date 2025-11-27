@@ -241,7 +241,7 @@ If you use this data or code in your work, please cite:
 @article{smjss2026_scrum_survey,
    title={Large Language Models in Scrum Management: Findings from a
 Global Survey of Practitioners},
-   author={Danyllo Wagner Albuquerque, João Gabriel Salvador Paiva, Mirko Perkusich},
+   author={Albuquerque, Danyllo et. al},
    journal={Journal of Software and Systems},
    year={2026},
    note={Supplementary material available at GitHub repository},
@@ -262,7 +262,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Mirko Perkusich](https://orcid.org/0000-0002-9433-4962)**
 - **[Matheus Paixão](https://orcid.org/0000-0002-1775-7259)**
 - **[Allysson Allex Araújo](https://orcid.org/0000-0003-2108-2335)**
+- **[Rohit Gheyi](https://orcid.org/0000-0002-5562-4449)**
 - **[Marcos Kalinowski](https://orcid.org/0000-0003-1445-3425)**
+- **[angelo Perkusich](https://orcid.org/0000-0002-7377-1258)**
 
 ## Acknowledgments
 
@@ -273,16 +275,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This research is conducted for academic purposes. The data represents the experiences and opinions of survey participants at the time of data collection and may not represent all Agile practitioners or contexts.
+This research is conducted for academic purposes. The data reflect survey participants' experiences and opinions at the time of data collection and may not reflect all Agile practitioners or contexts.
 
 ## Contact
 
 For questions about this research, please contact:
 
-- Danyllo Wagner Albuquerque: [ORCID](https://orcid.org/0000-0001-5515-7812)
-- João Gabriel Salvador Paiva: [ORCID](https://orcid.org/0009-0008-5558-429X)
-- Mirko Perkusich: [ORCID](https://orcid.org/0000-0002-9433-4962)
-
+- Danyllo Wagner Albuquerque: danyllo.albuquerque@virtus.ufcg.edu.br
+  
 ---
 
 **Keywords**: Artificial Intelligence, AI Chat Assistants, Scrum, Agile, Software Engineering, Large Language Models, ChatGPT, Project Management
