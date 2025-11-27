@@ -117,7 +117,7 @@ python src/data_processing/merge_datasets.py
 
 ### 2. Generate Descriptive Statistics
 
-Create tabular statistics report:
+Create a tabular statistics report:
 
 ```bash
 python scripts/analyze_survey.py
@@ -140,7 +140,7 @@ Create all visualizations:
 python src/visualization/create_plots.py
 ```
 
-This generates 16 plots in `outputs/plots/` including:
+This generates 16 plots in `outputs/plots/`, including:
 
 - Response distribution by source
 - AI tools usage frequency (with coverage %)
@@ -258,13 +258,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - **[Danyllo Wagner Albuquerque](https://orcid.org/0000-0001-5515-7812)**
-- **[João Gabriel Salvador Paiva](https://orcid.org/0009-0008-5558-429X)**
 - **[Mirko Perkusich](https://orcid.org/0000-0002-9433-4962)**
 - **[Matheus Paixão](https://orcid.org/0000-0002-1775-7259)**
 - **[Allysson Allex Araújo](https://orcid.org/0000-0003-2108-2335)**
 - **[Rohit Gheyi](https://orcid.org/0000-0002-5562-4449)**
 - **[Marcos Kalinowski](https://orcid.org/0000-0003-1445-3425)**
-- **[angelo Perkusich](https://orcid.org/0000-0002-7377-1258)**
+- **[João Gabriel Salvador Paiva](https://orcid.org/0009-0008-5558-429X)**
+- **[Angelo Perkusich](https://orcid.org/0000-0002-7377-1258)**
 
 ## Acknowledgments
 
