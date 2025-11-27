@@ -205,7 +205,7 @@ If you use this data or code, please cite:
 @article{smjss2026_scrum_survey,
    title={Large Language Models in Scrum Management: Findings from a
 Global Survey of Practitioners},
-   author={Danyllo Wagner Albuquerque, João Gabriel Salvador Paiva, Mirko Perkusich},
+   author={Albuquerque, Danyllo et al.},
    journal={Journal of Software and Systems},
    year={2026},
    url={https://github.com/Ilusinusmate/smjss26}
@@ -225,9 +225,7 @@ Contributions are welcome! Please:
 
 For questions or collaboration:
 
-- Danyllo Wagner Albuquerque: [ORCID](https://orcid.org/0000-0001-5515-7812)
-- João Gabriel Salvador Paiva: [ORCID](https://orcid.org/0009-0008-5558-429X)
-- Mirko Perkusich: [ORCID](https://orcid.org/0000-0002-9433-4962)
+- Danyllo Wagner Albuquerque: danyllo.albuquerque@virtus.ufcg.edu.br
 
 ## 🔗 Related Resources
 
