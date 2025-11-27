@@ -9,10 +9,15 @@ Global Survey of Practitioners"** submitted to the **Journal of Software and Sys
 
 The study addresses the following research questions:
 
-1. **RQ1**: How are AI chat assistants currently being used in Scrum management activities?
-2. **RQ2**: What benefits do practitioners experience when using AI chat assistants for Scrum tasks?
-3. **RQ3**: What challenges and risks do practitioners encounter with AI chat assistants in Scrum contexts?
-4. **RQ4**: How do practitioners envision the future relationship between AI and Scrum roles?
+1. **RQ1**: What is the current level of knowledge and usage of LLMs
+   among Scrum professionals?
+2. **RQ2**: In which Scrum practices (artifacts, events, and roles) are
+   LLMs being adopted, and how helpful are they perceived to be?
+3. **RQ3**: What benefits do Scrum teams perceive from using LLMs?
+4. **RQ4**: What risks and challenges are associated with LLM use
+   in Scrum contexts?
+5. **RQ5**: What are professionals’ expectations for the future role
+   of LLMs in Scrum management activities?
 
 ## Methodology
 
@@ -255,12 +260,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Danyllo Wagner Albuquerque](https://orcid.org/0000-0001-5515-7812)**
 - **[João Gabriel Salvador Paiva](https://orcid.org/0009-0008-5558-429X)**
 - **[Mirko Perkusich](https://orcid.org/0000-0002-9433-4962)**
+- **[Matheus Paixão](https://orcid.org/0000-0002-1775-7259)**
+- **[Allysson Allex Araújo](https://orcid.org/0000-0003-2108-2335)**
+- **[Marcos Kalinowski](https://orcid.org/0000-0003-1445-3425)**
 
 ## Acknowledgments
 
 - All survey participants who shared their experiences
 - Agile and Scrum communities for their support
 - Udemy course participants for their valuable contributions
+- Research advisors and mentors
 
 ## Disclaimer
 
