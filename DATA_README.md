@@ -363,7 +363,7 @@ Generates various plot types:
 
 ### License
 
-The data is provided under [specify license] for research purposes.
+The data is provided under MIT for research purposes.
 
 ### Citation
 
